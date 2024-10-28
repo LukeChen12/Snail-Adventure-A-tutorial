@@ -1,0 +1,2056 @@
+#HEADER
+pausebeforereturn 30
+buy items
+buy entities
+buy talkative
+buy tiles
+#FRAMES
+#INITIAL
+drawentity player1 320 210
+#frame
+drawchar W 290 50 1 255 255 255
+#frame
+#frame
+drawchar E 300 50 1 255 255 255
+#frame
+#frame
+drawchar L 310 50 1 255 255 255
+#frame
+#frame
+drawchar C 320 50 1 255 255 255
+#frame
+#frame
+drawchar O 330 50 1 255 255 255
+#frame
+#frame
+drawchar M 340 50 1 255 255 255
+#frame
+#frame
+drawchar E 350 50 1 255 255 255
+#frame
+#frame
+drawchar ! 360 50 1 255 255 255
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+drawchar T 260 70 1 255 255 255
+#frame
+#frame
+drawchar H 270 70 1 255 255 255
+#frame
+#frame
+drawchar I 280 70 1 255 255 255
+#frame
+#frame
+drawchar S 290 70 1 255 255 255
+#frame
+#frame
+drawchar I 310 70 1 255 255 255
+#frame
+#frame
+drawchar S 320 70 1 255 255 255
+#frame
+#frame
+drawchar S 340 70 1 255 255 255
+#frame
+#frame
+drawchar H 350 70 1 255 255 255
+#frame
+#frame
+drawchar E 360 70 1 255 255 255
+#frame
+#frame
+drawchar L 370 70 1 255 255 255
+#frame
+#frame
+drawchar L 380 70 1 255 255 255
+#frame
+#frame
+drawchar Y 390 70 1 255 255 255
+#frame
+drawentity player1 295 210
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+drawchar Now.. 300 90 2 255 255 255
+#frame
+#frame
+drawchar . 342 90 2 255 255 255
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+drawchar You 252 110 1 255 255 255
+#frame
+#frame
+drawchar migh 280 110 1 255 255 255
+#frame
+#frame
+drawchar t 310 110 1 255 255 255
+#frame
+#frame
+drawchar be 320 110 1 255 255 255
+#frame
+#frame
+drawchar wond 340 110 1 255 255 255
+#frame
+#frame
+drawchar erin 370 110 1 255 255 255
+#frame
+#frame
+drawchar g... 395 110 1 255 255 255
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+drawchar What 255 350 1 255 255 255
+#frame
+#frame
+drawchar is 295 350 1 255 255 255
+#frame
+#frame
+drawchar he 315 350 1 255 255 255
+#frame
+#frame
+drawchar doing 335 350 1 255 255 255
+#frame
+#frame
+drawchar here 375 350 1 255 255 255
+#frame
+#frame
+drawchar ? 405 350 1 255 255 255
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+drawchar W 305 370 2 255 255 255
+#frame
+#frame
+drawchar E 320 370 2 255 255 255
+#frame
+#frame
+drawchar L 330 370 2 255 255 255
+#frame
+#frame
+drawchar L 340 370 2 255 255 255
+#frame
+#frame
+drawchar ... 350 370 2 255 255 255
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+clear
+drawchar T 140 130 3 255 255 255
+#frame
+#frame
+drawchar H 160 130 3 255 255 255
+#frame
+#frame
+drawchar A 180 130 3 255 255 255
+#frame
+#frame
+drawchar T 200 130 3 255 255 255
+#frame
+#frame
+drawchar ' 220 130 3 255 255 255
+#frame
+#frame
+drawchar S 240 130 3 255 255 255
+#frame
+#frame
+drawchar A 280 130 3 255 255 255
+#frame
+#frame
+drawchar L 320 130 3 255 255 255
+#frame
+#frame
+drawchar O 340 130 3 255 255 255
+#frame
+#frame
+drawchar N 360 130 3 255 255 255
+#frame
+#frame
+drawchar G 380 130 3 255 255 255
+#frame
+#frame
+drawchar S 420 130 3 255 255 255
+#frame
+#frame
+drawchar T 440 130 3 255 255 255
+#frame
+#frame
+drawchar O 460 130 3 255 255 255
+#frame
+#frame
+drawchar R 480 130 3 255 255 255
+#frame
+#frame
+drawchar Y 500 130 3 255 255 255
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+drawchar But 200 200 2 255 255 255
+#frame
+#frame
+drawchar He 240 200 2 255 255 255
+#frame
+#frame
+drawchar Need 280 200 2 255 255 255
+drawchar s 320 200 2 255 255 255
+#frame
+#frame
+drawchar Your 340 200 2 255 255 255
+#frame
+#frame
+drawchar Help 390 200 2 255 255 255
+#frame
+#frame
+drawchar .. 430 200 2 255 255 255
+#frame
+drawentity player1 280 300
+#frame
+#frame
+#frame
+drawitem small golf_club 180 230
+#frame
+#frame
+#frame
+drawitem small rusty_mirror 380 230
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+clear
+drawchar G 170 130 2 255 255 255
+#frame
+#frame
+#frame
+drawchar a 183 130 2 255 255 255
+#frame
+#frame
+#frame
+drawchar t 194 130 2 255 255 255
+#frame
+#frame
+#frame
+drawchar h 200 130 2 255 255 255
+#frame
+#frame
+#frame
+drawchar e 210 130 2 255 255 255
+#frame
+#frame
+#frame
+drawchar r 220 130 2 255 255 255
+#frame
+#frame
+#frame
+drawchar W 235 130 2 255 255 255
+#frame
+#frame
+#frame
+drawchar e 250 130 2 255 255 255
+#frame
+#frame
+#frame
+drawchar a 260 130 2 255 255 255
+#frame
+#frame
+#frame
+drawchar p 270 130 2 255 255 255
+#frame
+#frame
+#frame
+drawchar o 280 130 2 255 255 255
+#frame
+#frame
+#frame
+drawchar n 290 130 2 255 255 255
+#frame
+#frame
+#frame
+drawchar s 300 130 2 255 255 255
+#frame
+#frame
+#frame
+drawchar a 320 130 2 255 255 255
+#frame
+#frame
+#frame
+drawchar n 330 130 2 255 255 255
+#frame
+#frame
+#frame
+drawchar d 340 130 2 255 255 255
+#frame
+#frame
+#frame
+drawchar a 360 130 2 255 255 255
+#frame
+#frame
+#frame
+drawchar r 370 130 2 255 255 255
+#frame
+#frame
+#frame
+drawchar m 377 130 2 255 255 255
+#frame
+#frame
+#frame
+drawchar o 390 130 2 255 255 255
+#frame
+#frame
+#frame
+drawchar u 400 130 2 255 255 255
+#frame
+#frame
+#frame
+drawchar r 410 130 2 255 255 255
+#frame
+#frame
+#frame
+drawchar . 420 130 2 255 255 255
+#frame
+#frame
+#frame
+drawchar . 430 130 2 255 255 255
+#frame
+#frame
+#frame
+drawchar . 440 130 2 255 255 255
+#frame
+#frame
+#frame
+#frame
+#frame
+drawchar T 120 210 2 255 255 255
+#frame
+#frame
+#frame
+drawchar o 130 210 2 255 255 255
+#frame
+#frame
+#frame
+drawchar p 150 210 2 255 255 255
+#frame
+#frame
+#frame
+drawchar r 160 210 2 255 255 255
+#frame
+#frame
+#frame
+drawchar e 170 210 2 255 255 255
+#frame
+#frame
+#frame
+drawchar p 180 210 2 255 255 255
+#frame
+#frame
+#frame
+drawchar a 190 210 2 255 255 255
+#frame
+#frame
+#frame
+drawchar r 200 210 2 255 255 255
+#frame
+#frame
+#frame
+drawchar e 210 210 2 255 255 255
+#frame
+#frame
+#frame
+drawchar f 230 210 2 255 255 255
+#frame
+#frame
+#frame
+drawchar o 240 210 2 255 255 255
+#frame
+#frame
+#frame
+drawchar r 250 210 2 255 255 255
+#frame
+#frame
+#frame
+drawchar t 270 210 2 255 255 255
+#frame
+#frame
+#frame
+drawchar h 280 210 2 255 255 255
+#frame
+#frame
+#frame
+drawchar e 290 210 2 255 255 255
+#frame
+#frame
+#frame
+drawchar f 310 210 2 255 255 255
+#frame
+#frame
+#frame
+drawchar i 320 210 2 255 255 255
+#frame
+#frame
+#frame
+drawchar g 330 210 2 255 255 255
+#frame
+#frame
+#frame
+drawchar h 340 210 2 255 255 255
+#frame
+#frame
+#frame
+drawchar t 350 210 2 255 255 255
+#frame
+#frame
+#frame
+drawchar o 370 210 2 255 255 255
+#frame
+#frame
+#frame
+drawchar f 380 210 2 255 255 255
+#frame
+#frame
+#frame
+drawchar y 400 210 2 255 255 255
+#frame
+#frame
+#frame
+drawchar o 410 210 2 255 255 255
+#frame
+#frame
+#frame
+drawchar u 420 210 2 255 255 255
+#frame
+#frame
+#frame
+drawchar r 430 210 2 255 255 255
+#frame
+#frame
+#frame
+drawchar l 450 210 2 255 255 255
+#frame
+#frame
+#frame
+drawchar i 460 210 2 255 255 255
+#frame
+#frame
+#frame
+drawchar f 470 210 2 255 255 255
+#frame
+#frame
+#frame
+drawchar e 480 210 2 255 255 255
+#frame
+#frame
+#frame
+drawchar : 490 210 2 255 255 255
+#frame
+#frame
+drawentity KungFuKrane 290 300
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+clear
+#frame
+drawchar Note 280 30 3 255 255 255
+#frame
+drawchar s: 335 30 3 255 255 255
+#frame
+drawchar L 160 60 2 255 255 255
+#frame
+#frame
+drawchar E 170 60 2 255 255 255
+#frame
+#frame
+drawchar F 180 60 2 255 255 255
+#frame
+#frame
+drawchar T 190 60 2 255 255 255
+#frame
+#frame
+drawchar C 210 60 2 255 255 255
+#frame
+#frame
+drawchar L 220 60 2 255 255 255
+#frame
+#frame
+drawchar I 230 60 2 255 255 255
+#frame
+#frame
+drawchar C 240 60 2 255 255 255
+#frame
+#frame
+drawchar K 250 60 2 255 255 255
+#frame
+#frame
+drawchar W 270 60 2 255 255 255
+#frame
+#frame
+drawchar I 280 60 2 255 255 255
+#frame
+#frame
+drawchar T 290 60 2 255 255 255
+#frame
+#frame
+drawchar H 300 60 2 255 255 255
+#frame
+#frame
+drawchar A 320 60 2 255 255 255
+#frame
+#frame
+drawchar W 340 60 2 255 255 255
+#frame
+#frame
+drawchar E 350 60 2 255 255 255
+#frame
+#frame
+drawchar A 360 60 2 255 255 255
+#frame
+#frame
+drawchar P 370 60 2 255 255 255
+#frame
+#frame
+drawchar O 380 60 2 255 255 255
+#frame
+#frame
+drawchar N 390 60 2 255 255 255
+#frame
+#frame
+drawchar T 410 60 2 255 255 255
+#frame
+#frame
+drawchar O 420 60 2 255 255 255
+#frame
+#frame
+drawchar A 440 60 2 255 255 255
+#frame
+#frame
+drawchar T 450 60 2 255 255 255
+#frame
+#frame
+drawchar T 460 60 2 255 255 255
+#frame
+#frame
+drawchar A 470 60 2 255 255 255
+#frame
+#frame
+drawchar C 480 60 2 255 255 255
+#frame
+#frame
+drawchar K 490 60 2 255 255 255
+drawitem small golf_club 240 200
+drawentity swampotter 360 200
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+clear
+drawchar K 180 60 2 255 255 255
+#frame
+#frame
+drawchar E 190 60 2 255 255 255
+#frame
+#frame
+drawchar E 200 60 2 255 255 255
+#frame
+#frame
+drawchar P 210 60 2 255 255 255
+#frame
+#frame
+drawchar A 230 60 2 255 255 255
+#frame
+#frame
+drawchar N 240 60 2 255 255 255
+#frame
+#frame
+drawchar E 260 60 2 255 255 255
+#frame
+#frame
+drawchar Y 270 60 2 255 255 255
+#frame
+#frame
+drawchar E 280 60 2 255 255 255
+#frame
+#frame
+drawchar O 300 60 2 255 255 255
+#frame
+#frame
+drawchar N 310 60 2 255 255 255
+#frame
+#frame
+drawchar Y 330 60 2 255 255 255
+#frame
+#frame
+drawchar O 340 60 2 255 255 255
+#frame
+#frame
+drawchar U 350 60 2 255 255 255
+#frame
+#frame
+drawchar R 360 60 2 255 255 255
+#frame
+#frame
+drawchar H 380 60 2 255 255 255
+#frame
+#frame
+drawchar E 395 60 2 255 255 255
+#frame
+#frame
+drawchar A 405 60 2 255 255 255
+#frame
+#frame
+drawchar L 415 60 2 255 255 255
+#frame
+#frame
+drawchar T 425 60 2 255 255 255
+#frame
+#frame
+drawchar H 435 60 2 255 255 255
+#frame
+#frame
+drawchar B 450 60 2 255 255 255
+#frame
+#frame
+drawchar A 460 60 2 255 255 255
+#frame
+#frame
+drawchar R 470 60 2 255 255 255
+#frame
+drawchar It's 277 85 1 255 255 255
+#frame
+drawchar the 297 85 1 255 255 255
+#frame
+drawchar red 318 85 1 255 255 255
+#frame
+drawchar one: 346 85 1 255 255 255
+#frame
+drawrect 150 150 500 175 255 0 0
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+clear
+drawchar Move 290 60 2 255 255 255
+#frame
+#frame
+#frame
+drawchar with 340 60 2 255 255 255
+#frame
+#frame
+#frame
+drawchar ASD 390 68 2 255 255 255
+#frame
+drawchar W 400 52 2 255 255 255
+#frame
+drawentity player1 320 130
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+clear
+drawentity player1 320 135
+#frame
+#frame
+#frame
+clear
+drawentity player1 320 140
+#frame
+#frame
+#frame
+clear
+drawentity player1 320 145
+#frame
+#frame
+#frame
+clear
+drawentity player1 320 150
+#frame
+#frame
+#frame
+clear
+drawentity player1 320 155
+#frame
+#frame
+#frame
+clear
+drawentity player1 320 160
+#frame
+#frame
+#frame
+clear
+drawentity player1 320 165
+#frame
+#frame
+#frame
+clear
+drawentity player1 320 170
+#frame
+#frame
+#frame
+clear
+drawentity player1 320 175
+#frame
+#frame
+#frame
+clear
+drawentity player1 320 180
+#frame
+#frame
+#frame
+clear
+drawentity player1 320 185
+#frame
+#frame
+#frame
+clear
+drawentity player1 320 190
+#frame
+#frame
+#frame
+clear
+drawentity player1 320 195
+#frame
+#frame
+#frame
+clear
+drawentity player1 320 200
+#frame
+#frame
+#frame
+clear
+drawentity player1 320 205
+#frame
+#frame
+#frame
+clear
+drawentity player1 320 210
+#frame
+#frame
+#frame
+clear
+drawentity player1 320 215
+#frame
+#frame
+#frame
+clear
+drawentity player1 320 220
+#frame
+#frame
+#frame
+clear
+drawentity player1 320 225
+#frame
+#frame
+#frame
+clear
+drawentity player1 320 230
+#frame
+#frame
+#frame
+clear
+drawentity player1 320 235
+#frame
+#frame
+#frame
+clear
+drawentity player1 320 240
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+clear
+#LOBBY
+#frame
+drawitem small crystal_armor 320 200
+drawentity player1 380 200
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+clear
+#frame
+drawitem small crystal_armor 320 200
+drawentity player1 380 200
+drawitem small sapphire_studded_sword 192 200
+#frame
+clear
+#frame
+drawitem small crystal_armor 320 200
+drawentity player1 380 200
+drawitem small sapphire_studded_sword 194 200
+#frame
+clear
+#frame
+drawitem small crystal_armor 320 200
+drawentity player1 380 200
+drawitem small sapphire_studded_sword 196 200
+#frame
+clear
+#frame
+drawitem small crystal_armor 320 200
+drawentity player1 380 200
+drawitem small sapphire_studded_sword 198 200
+#frame
+clear
+#frame
+drawitem small crystal_armor 320 200
+drawentity player1 380 200
+drawitem small sapphire_studded_sword 200 200
+#frame
+clear
+#frame
+drawitem small crystal_armor 320 200
+drawentity player1 380 200
+drawitem small sapphire_studded_sword 202 200
+#frame
+drawchar Quic 280 60 2 255 255 255
+#frame
+drawchar k 320 60 2 255 255 255
+#frame
+drawchar Tip: 340 60 2 255 255 255
+#frame
+#frame
+#frame
+#frame
+drawchar Armo 220 75 2 255 255 255
+#frame
+drawchar ur 260 75 2 255 255 255
+#frame
+drawchar Red 290 75 2 255 255 255
+#frame
+drawchar uces 320 75 2 255 255 255
+#frame
+drawchar Dama 370 75 2 255 255 255
+#frame
+drawchar ge 410 75 2 255 255 255
+#frame
+#frame
+#frame
+#frame
+drawchar *put 10 350 2 255 255 255
+#frame
+#frame
+drawchar armo 50 350 2 255 255 255
+#frame
+#frame
+drawchar r 90 350 2 255 255 255
+#frame
+#frame
+drawchar in 100 350 2 255 255 255
+#frame
+#frame
+drawchar the 120 350 2 255 255 255
+#frame
+#frame
+drawchar last 150 350 2 255 255 255
+#frame
+#frame
+drawchar inv 182 350 2 255 255 255
+#frame
+#frame
+drawchar slot 212 350 2 255 255 255
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+clear
+#frame
+drawitem small golf_club 220 200
+drawentity silver 360 200
+#frame
+#frame
+clear
+drawitem small golf_club 222 200
+drawentity silver 360 200
+#frame
+#frame
+clear
+drawitem small golf_club 224 200
+drawentity silver 360 200
+#frame
+#frame
+clear
+drawitem small golf_club 226 200
+drawentity silver 360 200
+#frame
+#frame
+clear
+drawitem small golf_club 228 200
+drawentity silver 360 200
+#frame
+#frame
+clear
+drawitem small golf_club 230 200
+drawentity silver 360 200
+#frame
+#frame
+clear
+drawitem small golf_club 232 200
+drawentity silver 360 200
+#frame
+#frame
+clear
+drawitem small golf_club 234 200
+drawentity silver 360 200
+#frame
+#frame
+clear
+drawitem small golf_club 236 200
+drawentity silver 360 200
+#frame
+#frame
+clear
+drawitem small golf_club 238 200
+drawentity silver 360 200
+#frame
+#frame
+clear
+drawitem small golf_club 240 200
+drawentity silver 360 200
+#frame
+drawchar Hit 230 75 2 255 255 255
+#frame
+drawchar Ches 260 75 2 255 255 255
+#frame
+drawchar ts 300 75 2 255 255 255
+#frame
+drawchar to 320 75 2 255 255 255
+#frame
+drawchar Open 340 75 2 255 255 255
+#frame
+drawchar Them: 390 75 2 255 255 255
+#frame
+#frame
+clear
+drawchar Hit 230 75 2 255 255 255
+#frame
+drawchar Ches 260 75 2 255 255 255
+#frame
+drawchar ts 300 75 2 255 255 255
+#frame
+drawchar to 320 75 2 255 255 255
+#frame
+drawchar Open 340 75 2 255 255 255
+#frame
+drawchar Them: 390 75 2 255 255 255
+#frame
+drawitem small golf_club 238 200
+#frame
+drawitem small watermelon 350 200
+#frame
+drawitem small lemon 410 150
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+clear
+#frame
+drawchar Use 200 75 2 255 255 255
+#frame
+drawchar Food 240 75 2 255 255 255
+#frame
+drawchar or 290 75 2 255 255 255
+#frame
+drawchar Cros 320 75 2 255 255 255
+#frame
+drawchar sbow 350 75 2 255 255 255
+#frame
+drawchar s 390 75 2 255 255 255
+#frame
+drawchar to 410 75 2 255 255 255
+#frame
+drawchar Heal 440 75 2 255 255 255
+#frame
+drawitem small apple 240 200
+drawitem medium basic_crossbow 370 175
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+clear
+#frame
+#DUNGEON
+#SWAMP
+#frame
+drawchar Quic 280 60 2 255 255 255
+#frame
+drawchar k 320 60 2 255 255 255
+#frame
+drawchar Tip: 340 60 2 255 255 255
+#frame
+#frame
+#frame
+#frame
+#frame
+drawchar W 180 75 2 255 255 255
+#frame
+#frame
+drawchar a 190 75 2 255 255 255
+#frame
+#frame
+drawchar t 200 75 2 255 255 255
+#frame
+#frame
+drawchar e 210 75 2 255 255 255
+#frame
+#frame
+drawchar r 220 75 2 255 255 255
+#frame
+#frame
+drawchar S 240 75 2 255 255 255
+#frame
+#frame
+drawchar l 250 75 2 255 255 255
+#frame
+#frame
+drawchar o 260 75 2 255 255 255
+#frame
+#frame
+drawchar w 270 75 2 255 255 255
+#frame
+#frame
+drawchar s 280 75 2 255 255 255
+#frame
+#frame
+drawchar Y 300 75 2 255 255 255
+#frame
+#frame
+drawchar o 310 75 2 255 255 255
+#frame
+#frame
+drawchar u 320 75 2 255 255 255
+#frame
+#frame
+drawchar d 340 75 2 255 255 255
+#frame
+#frame
+drawchar o 350 75 2 255 255 255
+#frame
+#frame
+drawchar w 360 75 2 255 255 255
+#frame
+#frame
+drawchar n 370 75 2 255 255 255
+#frame
+#frame
+drawchar w 390 75 2 255 255 255
+#frame
+#frame
+drawchar h 400 75 2 255 255 255
+#frame
+#frame
+drawchar i 410 75 2 255 255 255
+#frame
+#frame
+drawchar l 420 75 2 255 255 255
+#frame
+#frame
+drawchar e 430 75 2 255 255 255
+#frame
+#frame
+drawchar m 450 75 2 255 255 255
+#frame
+#frame
+drawchar o 460 75 2 255 255 255
+#frame
+#frame
+drawchar v 470 75 2 255 255 255
+#frame
+#frame
+drawchar i 480 75 2 255 255 255
+#frame
+#frame
+drawchar n 490 75 2 255 255 255
+#frame
+#frame
+drawchar g 500 75 2 255 255 255
+#frame
+drawentity player1 320 140
+#frame
+#frame
+#frame
+drawtile swampwater 320 220
+#frame
+drawchar *It 210 420 1 255 255 255
+#frame
+drawchar also 250 420 1 255 255 255
+#frame
+drawchar keep 300 420 1 255 255 255
+#frame
+drawchar s 340 420 1 255 255 255
+#frame
+drawchar you 360 420 1 255 255 255
+#frame
+drawchar cool 400 420 1 255 255 255
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+clear
+#DESERT
+drawchar It's 260 80 2 255 255 255
+#frame
+drawchar gett 290 80 2 255 255 255
+#frame
+drawchar ing 320 80 2 255 255 255
+#frame
+drawchar hot 350 80 2 255 255 255
+#frame
+drawchar ... 380 80 2 255 255 255
+#frame
+#frame
+#frame
+drawtile sand 400 230
+#frame
+#frame
+#frame
+drawtile volcanomolten 160 220
+#frame
+#frame
+#frame
+drawtile sanddark 520 160
+#frame
+#frame
+#frame
+drawtile sandlight 240 250
+#frame
+#frame
+#frame
+drawtile volcanolava 34 180
+#frame
+#frame
+#frame
+drawchar Shel 220 100 2 255 255 255
+#frame
+drawchar ly 260 100 2 255 255 255
+#frame
+drawchar is 280 100 2 255 255 255
+#frame
+drawchar gett 300 100 2 255 255 255
+#frame
+drawchar ing 330 100 2 255 255 255
+#frame
+drawchar weak 360 100 2 255 255 255
+#frame
+drawchar ... 400 100 2 255 255 255
+#frame
+#frame
+#frame
+drawentity player1 280 210
+#frame
+#frame
+#frame
+drawchar He 180 350 2 255 255 255
+#frame
+drawchar need 210 350 2 255 255 255
+#frame
+drawchar s 250 350 2 255 255 255
+#frame
+drawchar to 270 350 2 255 255 255
+#frame
+drawchar get 290 350 2 255 255 255
+#frame
+drawchar into 320 350 2 255 255 255
+#frame
+drawchar the 360 350 2 255 255 255
+#frame
+drawchar wate 390 350 2 255 255 255
+#frame
+drawchar r... 430 350 2 255 255 255
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+clear
+#MOUNTAINS
+drawchar It's 260 80 2 255 255 255
+#frame
+drawchar gett 290 80 2 255 255 255
+#frame
+drawchar ing 320 80 2 255 255 255
+#frame
+drawchar cold 350 80 2 255 255 255
+#frame
+drawchar ... 380 80 2 255 255 255
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+clear
+#ARCTIC
+#DARKNESS
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+drawchar S 249 80 2 255 0 0
+#frame
+#frame
+#frame
+drawchar O 259 80 2 255 0 0
+#frame
+#frame
+#frame
+drawchar M 269 80 2 255 0 0
+#frame
+#frame
+#frame
+drawchar E 279 80 2 255 0 0
+#frame
+#frame
+#frame
+drawchar T 289 80 2 255 0 0
+#frame
+#frame
+#frame
+drawchar H 299 80 2 255 0 0
+#frame
+#frame
+#frame
+drawchar I 310 80 2 255 0 0
+#frame
+#frame
+#frame
+drawchar N 320 80 2 255 0 0
+#frame
+#frame
+#frame
+drawchar G 340 80 2 255 0 0
+#frame
+#frame
+#frame
+drawchar S 360 80 2 255 0 0
+#frame
+#frame
+#frame
+drawchar T 370 80 2 255 0 0
+#frame
+#frame
+#frame
+drawchar I 379 80 2 255 0 0
+#frame
+#frame
+#frame
+drawchar R 392 80 2 255 0 0
+#frame
+#frame
+#frame
+drawchar S 401 80 2 255 0 0
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+clear
+#VOID
+#FINAL
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+drawchar So 310 140 3 255 255 255
+#frame
+#frame
+#frame
+drawchar . 300 200 3 255 255 255
+#frame
+#frame
+#frame
+drawchar . 320 200 3 255 255 255
+#frame
+#frame
+#frame
+drawchar . 340 200 3 255 255 255
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+clear
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+drawchar I 120 200 3 255 255 255
+#frame
+#frame
+drawchar HOPE 160 200 3 255 255 255
+#frame
+#frame
+drawchar YOU 260 200 3 255 255 255
+#frame
+#frame
+drawchar ARE 340 200 3 255 255 255
+#frame
+#frame
+drawchar READ 420 200 3 255 255 255
+#frame
+#frame
+drawchar Y 490 200 3 255 255 255
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+clear
+#frame
